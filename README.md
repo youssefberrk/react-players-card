@@ -58,20 +58,21 @@ The app is styled with a football field green theme, floating card effects, and 
 
 ## Project Structure
 
-players-cards/
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/
-│ │ ├── Player.js
-│ │ ├── PlayersList.js
-│ ├── data/
-│ │ └── players.js
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
-├── package.json
-└── README.md
+```plaintext
+📁 players-cards/
+├── 📁 public/
+│   └── 📄 index.html
+├── 📁 src/
+│   ├── 📁 components/
+│   │   ├── 📄 Player.js
+│   │   └── 📄 PlayersList.js
+│   ├── 📁 data/
+│   │   └── 📄 players.js
+│   ├── 📄 App.js
+│   ├── 📄 App.css
+│   └── 📄 index.js
+├── 📄 package.json
+└── 📄 README.md
 
 - Player.js → Player card component with modal and hover float effect.
 
