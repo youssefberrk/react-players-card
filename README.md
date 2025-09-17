@@ -73,6 +73,7 @@ The app is styled with a football field green theme, floating card effects, and 
 │   └── 📄 index.js
 ├── 📄 package.json
 └── 📄 README.md
+```
 
 - Player.js → Player card component with modal and hover float effect.
 
